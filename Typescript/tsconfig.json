@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "target": "ES6", //js version for output
+    "module": "commonjs", //node.js module system
+    "experimentalDecorators": true, //Allow using @decorators without warnings
+    "strict": true //Enables strict type checks → safer code
+  }
+}
